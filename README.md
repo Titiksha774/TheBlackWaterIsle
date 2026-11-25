@@ -51,4 +51,4 @@ Without them the scenes will open with missing models and textures, but all scri
 
 Unity 2022.3 (Built-in render pipeline), C#, TextMesh Pro, Mixamo.
 
-A VR port of this game is in a separate project.
+A VR port of this game is in [VRBlackWaterIsle](https://github.com/Titiksha774/VRBlackWaterIsle).
